@@ -1,0 +1,42 @@
+body{
+	margin:0px;
+	background: green;
+}
+
+.demo-card-square.mdl-card {
+	width: 100%;
+	height: 700px;
+}
+
+.demo-card-square > .mdl-card__title {
+	color: #fff;
+	background:
+	url('img/game.png') bottom right 15% no-repeat #46B6AC;
+}
+
+#startButton{
+	background: #2196F3;
+}
+
+#stepButton{
+	background: #1565C0;
+}
+
+.table_container{
+	height:300px;
+	overflow-y: scroll;
+}
+
+#past_times{
+	width: 100%;
+}
+
+.container{
+	padding: 10px;
+}
+
+#timer{
+	font-size: 250%;
+	font-weight: bold;
+	color:blue;
+}
