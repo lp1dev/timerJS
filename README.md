@@ -17,6 +17,6 @@ You have to open the index.html file in your internet browser to launch it, you 
  * want with this stuff. If we meet some day, and you think this stuff is
  * worth it, you can buy me the above drink(s) in return.
  *
- * Your Name
+ * Jeremie Amsellem
  * ---------------------------------------------------------------------------- 
  */
