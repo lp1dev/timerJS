@@ -8,7 +8,7 @@ You have to open the index.html file in your internet browser to launch it, you 
 
 - Space : Start/Stop timer
 - S : Set Step
-
+```
 /* ----------------------------------------------------------------------------
  * "THE (BEER/CIDER)WARE LICENSE" (Rev. 1):
  * 
@@ -20,3 +20,4 @@ You have to open the index.html file in your internet browser to launch it, you 
  * Jeremie Amsellem
  * ---------------------------------------------------------------------------- 
  */
+ ```
