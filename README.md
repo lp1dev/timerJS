@@ -1,6 +1,6 @@
 ## TimerJS
 
-You can easily edit the run name, background color, playlist of the YouTube URL and the different time steps in the "config.js" fine.
+You can easily edit the run name, background color, playlist of the YouTube URL and the different time steps in the "config.js" file.
 
 You have to open the index.html file in your internet browser to launch it, you can use it locally on your computer or deploy it on a webserver.
 
