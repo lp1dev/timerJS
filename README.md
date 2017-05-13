@@ -4,7 +4,7 @@ You can easily edit the run name, background color, playlist of the YouTube URL 
 
 You have to open the index.html file in your internet browser to launch it, you can use it locally on your computer or deploy it on a webserver.
 
-###Shortcuts 
+### Shortcuts 
 
 - Space : Start/Stop timer
 - S : Set Step
